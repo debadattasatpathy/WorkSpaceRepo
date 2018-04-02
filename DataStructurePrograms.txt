@@ -1,0 +1,5 @@
+Learning DataStructure -
+1. Space complexity 
+2. Time Complexity
+3. Arrays
+4. Linked list
